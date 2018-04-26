@@ -1,8 +1,8 @@
 [
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1524722138151,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1524722138153,
@@ -30,22 +30,22 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524725133644,
             "changeTime": 1524725133644,
-            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1524723078357,
@@ -58,9 +58,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1524723078395,
@@ -73,9 +73,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1524723078395,
@@ -88,9 +88,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
             "isDirectory": false,
             "size": 192,
             "modifiedTime": 1524723138941,
@@ -103,9 +103,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
             "isDirectory": false,
             "size": 236,
             "modifiedTime": 1524723078371,
@@ -118,9 +118,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
             "isDirectory": false,
             "size": 10,
             "modifiedTime": 1524723078383,
@@ -133,9 +133,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1524723078396,
@@ -148,9 +148,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1524723078393,
@@ -163,9 +163,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
             "isDirectory": false,
             "size": 65,
             "modifiedTime": 1524723078374,
@@ -178,9 +178,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1524723078380,
@@ -193,9 +193,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1524723078389,
@@ -208,9 +208,9 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo",
         {
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1524723550784,
@@ -223,146 +223,146 @@
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 466,
             "modifiedTime": 1524725133617,
             "changeTime": 1524725133617,
-            "contentHash": "71977dc8bdc013d8a08aeaacd76b82281a2ca2d4"
+            "contentHash": "71977dc8bdc013d8a08aeaacd76b82281a2ca2d4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 308,
             "modifiedTime": 1524725133629,
             "changeTime": 1524725133629,
-            "contentHash": "c63e4417c44e3ebe56bc32322a03698775a39db2"
+            "contentHash": "c63e4417c44e3ebe56bc32322a03698775a39db2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 905,
             "modifiedTime": 1524725133636,
             "changeTime": 1524725133636,
-            "contentHash": "70ac232fc6ec55f556b63eced2a820c2ba3194df"
+            "contentHash": "70ac232fc6ec55f556b63eced2a820c2ba3194df",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4623,
             "modifiedTime": 1524725133652,
             "changeTime": 1524725133652,
-            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4623,
             "modifiedTime": 1524725133665,
             "changeTime": 1524725133665,
-            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4961,
             "modifiedTime": 1524725133678,
             "changeTime": 1524725133678,
-            "contentHash": "517c20ce83b76ace1fe48c6c1a9f3b2dee1c0976"
+            "contentHash": "517c20ce83b76ace1fe48c6c1a9f3b2dee1c0976",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17679,
             "modifiedTime": 1524725133701,
             "changeTime": 1524725133701,
-            "contentHash": "98dabb79dcd5dada37cd90e8b4991860403a345c"
+            "contentHash": "98dabb79dcd5dada37cd90e8b4991860403a345c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524725133616,
             "changeTime": 1524725133616,
-            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524725133626,
             "changeTime": 1524725133626,
-            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524725133635,
             "changeTime": 1524725133635,
-            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles",
+        "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce 교육\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles",
+            "sourcePath": "C:\\Users\\i2\\Desktop\\i2max\\salesforce Education\\180425-180426 Salesforce Application Platform Workshop\\heroku\\Demo\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524725133699,
             "changeTime": 1524725133699,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
